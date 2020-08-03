@@ -22,3 +22,7 @@ If you use this dataset, we appreciate it if you cite the following paper:
 Version 0.1 (05/17/2020)
 
 - initial version corresponding to arXiv paper
+
+Version 0.2 (08/03/2020)
+
+- added data from May 1, 2020 through July 1, 2020.
