@@ -34,3 +34,16 @@ Version 0.3 (11/03/2020)
 Version 0.4 (01/08/2021)
 
 - added data from September 1, 2020 through November 1, 2020
+
+## Needed
+
+> pyenv install 3.6.9 3.7.10 3.8.9 3.9.4 3.10a7 \
+> python -m venv .venv  \
+> . .venv/bin/activate \
+> pip install -r requirements.txt
+
+## Load detection dataset
+
+> Download [CoAID](https://github.com/cuilimeng/CoAID)  \
+> Add dowloaded folder in dataset folders \
+> run script : `python look_up_tweets.py`
